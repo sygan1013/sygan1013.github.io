@@ -1,16 +1,16 @@
 #### Submitted
 
-- <strong>S. Li</strong>*, X. Yang, S. M. Mousavi, A. Cao, K. Fan, Y. Liu, C. Wang, and Q. Niu. Learning Earthquake Wave Arrival Time Picking from Labels with Inaccuracies. <strong>Under Review</strong> [[Code]](https://github.com/senli1073/LaNCor)
+- <strong>Gan, S.-Y.</strong>, & Lee, H.* (2026). Tariff Shock and Trade Diversion Effects during the US-China Trade war: A gravity model approach. <strong>Major Revised and Resubmitted to Pacific Economic Review </strong>
+
+- <strong>Gan, S.-Y.</strong>, & Lee, H.*, Lee, J., & Liu, X. (2026). Tariff Evasion during the 2018–2019 US-China Trade War: Evidence from Missing Imports in the United States. <strong>Under Review in Journal of Economic Behavior & Organization </strong> [[Paper]](https://ssrn.com/abstract=6429415)
+
+- <strong>Gan, S.-Y.</strong>, & Lee, H.* (2025). The Dynamic Effects of Regional Trade Policy Uncertainty. <strong>Under Review in Global Economic Review </strong>
+
+- <strong>Gan, S.-Y.</strong>, & Lee, H.* (2025). Trade Under Cover of Crisis: Covid-19 and the Hidden Rise in US-China Tariff Evasion . <strong>Under Review in Emerging Markets Finance and Trade </strong>
 
 #### Published
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- <strong>Gan, S.-Y.</strong>, & Lee, H.-S*. (2024). Responses of High-Tech Exporters to the US-China Tech-War: Inferences Behind the US-China Trade War. <strong>Journal of International Trade & Commerce</strong>, 20(3), 77–96. [[Paper]](https://doi.org/10.16980/jitc.20.3.202406.77)
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
-
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
-
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
-
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
-
+- Zhan, K., Lee, H.*, & <strong>Gan, S.-Y.</strong> (2026). Impact of Trade Policy Uncertainty on Firms’ Innovation. <strong>East Asian Economic Review</strong>, 30(1), 59–89. [[Paper]](https://doi.org/10.11644/KIEP.EAER.2026.30.1.461)
+ 

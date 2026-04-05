@@ -1,17 +1,17 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![sygan1013](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/sygan1013)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+He is currently a PhD candidate in the Department of Economics at Korea University.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: sygam103[at]korea.ac.kr
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.E., International Trade, Sungkyunkwan University, 2020—2022.\
+B.E., Accouting (International Accounting), Tianjin University of Finance and Economics, 2016—2020.
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+International Economics, International Trade, Tariffs, US-China trade-war, Global Value Chain
 
