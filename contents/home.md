@@ -1,12 +1,12 @@
 
 
-[![sygan1013](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/sygan1013)
+[![sygan1013](https://img.shields.io/badge/sygan1013-github-blue?logo=github)](https://github.com/sygan1013)
 
 He is currently a PhD candidate in the Department of Economics at Korea University.
 
 #### Contact
 
-Email: sygam103[at]korea.ac.kr
+Email: sygam103@korea.ac.kr
 
 #### Education
 M.E., International Trade, Sungkyunkwan University, 2020—2022.\
