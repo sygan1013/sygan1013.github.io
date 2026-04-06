@@ -6,7 +6,7 @@
 
 - <strong>Gan, S.-Y.</strong>, & Lee, H.* (2025). The Dynamic Effects of Regional Trade Policy Uncertainty. <strong>Under Review in Global Economic Review </strong>
 
-- <strong>Gan, S.-Y.</strong>, & Lee, H.* (2025). Trade Under Cover of Crisis: Covid-19 and the Hidden Rise in US-China Tariff Evasion . <strong>Under Review in Emerging Markets Finance and Trade </strong>
+- <strong>Gan, S.-Y.</strong>, & Lee, H.* (2025). Trade Under Cover of Crisis: Covid-19 and the Hidden Rise in US-China Tariff Evasion
 
 #### Published
 
