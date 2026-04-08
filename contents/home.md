@@ -13,5 +13,5 @@ M.E., International Trade, Sungkyunkwan University, 2020—2022.\
 B.E., Accouting (International Accounting), Tianjin University of Finance and Economics, 2016—2020.
 
 #### Research Interests
-International Economics, International Trade, Tariffs, US-China trade-war, Global Value Chain
+International Economics, International Trade, Tariffs, Trade Conflict, Global Value Chain
 
